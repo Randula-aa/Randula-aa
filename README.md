@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randula-aa&label=Profile%20views&color=0e75b6&style=flat" alt="randula-aa" /> </p>
 
-- 📫 How to reach me **randulaarukgoda@gmail.com https:// www.linkedin.com/in/randula-arukgoda-922487215?utm_source=share_via&utm_content=profile&utm_medium=member_ios https://www.instagram.com/randula_aruk?igsh=MWduZGJ0Yjd5NWJ6cQ==&utm_source=ig_contact_invite**
+- 📫 How to reach me **Gmail - randulaarukgoda@gmail.com Linkdin-randula-arukgoda-922487215**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/randula-arukgoda-922487215?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/randula-arukgoda-922487215?utm_source=share_via&utm_content=profile&utm_medium=member_ios" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/randula-arukgoda-922487215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="randula-arukgoda-922487215" height="30" width="40" /></a>
 <a href="https://instagram.com/randula_aruk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="randula_aruk" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uc8_ntjaxfpvvsqrh2h7vm2g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc8_ntjaxfpvvsqrh2h7vm2g" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@randulaarukgada5954" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@randulaarukgada5954" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
