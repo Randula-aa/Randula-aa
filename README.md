@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randula-aa&label=Profile%20views&color=0e75b6&style=flat" alt="randula-aa" /> </p>
 
-- 📫 How to reach me **Gmail - randulaarukgoda@gmail.com Linkdin-randula-arukgoda-922487215**
+##📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/randula-arukgoda)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:randulaarukgoda@gmail.com)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
