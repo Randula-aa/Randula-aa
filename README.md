@@ -1,7 +1,6 @@
 ## 👋 Hello there!
 
-I'm **[Randula Arukgoda]**, an enthusiastic undergraduate student studying at **[Your University, Country]**.  
-Passionate about **[your main interests or field, e.g., embedded systems / software development / AI / robotics]**.
+
 
 ---
 
